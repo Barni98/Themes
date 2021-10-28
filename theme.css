@@ -24967,6 +24967,33 @@ width: 100%;
 }
 
 @media (max-width: 767px) {
+   
+.product-title a {
+    color: #666;
+    font-size: 15px;
+    line-height: 20px;
+    text-decoration: none;
+    float: left;
+    width: 100%;
+    font-weight: 600;
+    height: 35px;}
+
+#products .product-title, .products .product-title, .product-accessories .product-title {
+   
+    text-transform: capitalize;
+    
+    /* margin: 15px 0; */
+  
+   margin-bottom: 10px;
+   
+    margin-top: 15px;
+    
+    display: inline-block;
+    
+    vertical-align: top;
+   
+    width: 100%;
+}
 
     #products .products .list li.product_item .thumbnail-container.col-md-3 {
 
@@ -25328,3 +25355,4 @@ width: 100%;
     margin:0 0 20px;
 
 }
+
