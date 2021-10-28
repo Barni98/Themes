@@ -2399,6 +2399,8 @@ filter: invert(62%) sepia(130%) saturate(503%) hue-rotate(
     padding: 0 20px;
 
     font-weight: 500;
+	
+    margin-top: 5px;
 
     font-size: 14px;
 
