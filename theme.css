@@ -7382,7 +7382,7 @@ fieldset[disabled] a.btn {
 
     color: #fff;
 
-    background-color:#3F93E9;
+    background-color:#006A9D;
 
     border-color: transparent;
 
@@ -15424,7 +15424,7 @@ small.value {
 
 .nav-item .nav-separtor.active {
 
-    color: #3F93E9;
+    color: #006A9D;
 
 }
 
@@ -15436,7 +15436,7 @@ small.value {
 
 .dropdown:hover .expand-more {
 
-    color: #3F93E9;
+    color: #006A9D;
 
 }
 
@@ -24177,7 +24177,7 @@ width: 100%;
 #header .logo {
 
    /* max-width: 100%;*/
- height: 44px;
+ width: 200px;
 
 }
 
@@ -25328,4 +25328,3 @@ width: 100%;
     margin:0 0 20px;
 
 }
-
