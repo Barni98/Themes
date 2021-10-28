@@ -15614,7 +15614,7 @@ small.value {
 
 }
 
-.navfullwidth .search-widget form input[type="text"] {
+form input[type="text"] {
 
     min-width: inherit;
 
@@ -25293,7 +25293,7 @@ width: 100%;
 
     .navfullwidth .search-widget{
 
-        width: 200px;
+      /*  width: 200px; */
 
     }
 
