@@ -24970,7 +24970,7 @@ width: 100%;
    
 .product-title a {
     color: #666;
-    font-size: 15px;
+    font-size: 14px;
     line-height: 20px;
     text-decoration: none;
     float: left;
@@ -25348,6 +25348,7 @@ width: 100%;
 }
 
 
+
 #checkout textarea {
 
     width: 100%;
@@ -25355,4 +25356,3 @@ width: 100%;
     margin:0 0 20px;
 
 }
-
