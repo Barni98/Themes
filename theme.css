@@ -19476,7 +19476,7 @@ right: 5px;
         display: inline-block;
 
         vertical-align: top;
-         height: 200px;
+         height: 220px;
     } 
 
     #products .thumbnail-container .product-description,
@@ -24973,7 +24973,10 @@ width: 100%;
 }
 
 @media (max-width: 767px) {
-   
+.products img { 
+    max-width: 70%; 
+    position: relative;}
+	
 .product-title a {
     color: #666;
     font-size: 13.5px;
