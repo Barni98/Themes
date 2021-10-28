@@ -2400,7 +2400,7 @@ filter: invert(62%) sepia(130%) saturate(503%) hue-rotate(
 
     font-weight: 500;
 	
-    margin-top: 5px;
+    margin-top: 7px;
 
     font-size: 14px;
 
@@ -2616,7 +2616,7 @@ filter: invert(62%) sepia(130%) saturate(503%) hue-rotate(
 
 /*======*/
 
-.brands .products-section-title {
+.brands {
 
     display: none;
 
@@ -18596,6 +18596,8 @@ body#checkout [data-action="show-password"]:hover {
     line-height: 25px;
 
     padding-bottom: 10px;
+	
+    margin-top: 5px;
 
     text-transform: uppercase;
 
