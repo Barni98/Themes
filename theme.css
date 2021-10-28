@@ -18514,7 +18514,7 @@ body#checkout [data-action="show-password"]:hover {
 
     font-size: 14px;
 
-    line-height:23px;
+    line-height: 23px;
    
     text-decoration: none;
 
@@ -18524,7 +18524,7 @@ body#checkout [data-action="show-password"]:hover {
 
     font-weight: 600;
 
-   height: 25px;
+    height: 25px;
 }
 
 
