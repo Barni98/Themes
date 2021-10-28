@@ -19476,7 +19476,7 @@ right: 5px;
         display: inline-block;
 
         vertical-align: top;
-         height: fit-content;
+         height: 200px;
     } 
 
     #products .thumbnail-container .product-description,
