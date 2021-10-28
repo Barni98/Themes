@@ -3058,6 +3058,8 @@ li.googleplus:hover {
 
     line-height: 22px;
 
+    width: 110px;
+
     margin: 0;
     
     white-space: normal;
@@ -24974,13 +24976,13 @@ width: 100%;
    
 .product-title a {
     color: #666;
-    font-size: 14px;
+    font-size: 13.5px;
     line-height: 20px;
     text-decoration: none;
     float: left;
     width: 100%;
     font-weight: 600;
-    height: 35px;}
+    height: 5px;}
 
 #products .product-title, .products .product-title, .product-accessories .product-title {
    
@@ -24988,7 +24990,7 @@ width: 100%;
     
     /* margin: 15px 0; */
   
-   margin-bottom: 10px;
+   margin-bottom: 75px;
    
     margin-top: 15px;
     
