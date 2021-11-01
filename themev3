@@ -84,7 +84,7 @@
 
 margin: 0;
 
-width: 150px;
+/* width: 150px; */
 
 /* width: initial; */
 
@@ -619,18 +619,17 @@ padding: 5.5px 0;
 
 #header .navfullwidth a[data-depth="0"] {
 
-   /* text-transform: uppercase; */
+/* text-transform: uppercase; */
 
-    color: #fff;
+color: #fff;
 
-    display: block;
+display: block;
 
-    padding: 16px 25px;
+padding: 16px 25px;
 
-    font-size: 14px;
+font-size: 15px;
 
-    font-weight: 500;
-
+font-weight: 500;
 }
 
 @media(max-width: 991px){
@@ -2404,7 +2403,7 @@ font-weight: 500;
 
 margin-top: 7px;
 
-font-size: 14px;
+font-size: 15px;
 }
 
 /*testimonial  */
@@ -3911,8 +3910,7 @@ summary,
 
 textarea {
 
-    touch-action: manipulation;
-
+touch-action: manipulation;
 }
 
 table {
@@ -5355,11 +5353,11 @@ pre code {
 
     .col-md-4 {
 
-        float: left;
+float: left;
 
-        width: 33.33333%;
+width: 31.33333%;
 
-    }
+}
 
     .col-md-5 {
 
@@ -5675,11 +5673,11 @@ pre code {
 
     .col-lg-3 {
 
-        float: left;
+float: left;
 
-        width: 25%;
+width: 31.33%;
 
-    }
+}
 
     .col-lg-4 {
 
@@ -8713,26 +8711,25 @@ input[type="button"].btn-block {
 
 .dropdown-item {
 
-    display: block;
+display: block;
 
-    width: 100%;
+width: 100%;
 
-    padding: 3px 15px;
+padding: 3px 15px;
 
-    clear: both;
+clear: both;
 
-    font-weight: normal;
+font-weight: normal;
 
-    color: #878787;
+color: #878787;
 
-    text-align: inherit;
+text-align: inherit;
 
-    white-space: nowrap;
+white-space: nowrap;
 
-    background: none;
+background: none;
 
-    border: 0;
-
+border: 0;
 }
 
 .dropdown-item:focus,
@@ -15511,20 +15508,19 @@ small.value {
 
 .search-widget form input[type=text] {
 
-    padding: 10px 20px 10px 10px;
+padding: 10px 20px 10px 10px;
 
-    min-width: 250px;
+min-width: 300px;
 
-    color: #fff;
+color: #fff;
 
-    border: none;
+border: none;
 
-    outline: 0;
+outline: 0;
 
-    background:transparent;
+background:transparent;
 
-    font-style: italic;
-
+font-style: italic;
 }
 
 .search-widget form button[type=submit] {
@@ -15684,8 +15680,7 @@ form input[type="text"] {
 
 .top-menu a[data-depth="0"] {
 
-    padding: 20px 18px;
-
+padding: 20px 18px;
 }
 
 #header .header-top .menu .sub-menu a {
@@ -18162,11 +18157,11 @@ body#checkout [data-action="show-password"]:hover {
 
     .products .product_list li.product_item{
 
-        width: 50%;
+width: 47.33%;
 
-        float: left;
+float: left;
 
-    }
+}
 
 }
 
@@ -18178,9 +18173,9 @@ body#checkout [data-action="show-password"]:hover {
 
     #category .products .product_list li.product_item.col-md-4, #category .products .product_list li.item.col-md-4, #category .products .product_list li.product_item.col-md-6 {
 
-        width: 33.33%;
+width: 31.33%;
 
-    }
+}
 
     .products .product_list.list li.product_item.col-md-4, .products .product_list.list li.item.col-md-4 {
 
@@ -18310,14 +18305,18 @@ border: 1px solid transparent;
 
 border-radius: 3px;
 
-margin: 5px;
+margin: 7px;
 
 /* box-shadow: 0 0px 40px -14px rgb(0 0 0 / 25%); */
 
 box-shadow: 0 0 8px rgb(0 0 0 / 29%);
 }
 
-.products .product_list li.product_item, .products .product_list li.item:hover {
+.products .product_list li.product_item:hover, .products .product_list li.item {
+    box-shadow: 0 0 14px rgb(0 0 0 / 40%);
+}
+
+.products .product_list li.product_item:hover, .products .product_list li.item {
     box-shadow: 0 0 14px rgb(0 0 0 / 40%);
 }
 
@@ -18692,20 +18691,19 @@ height: 220px;
 
 .product-accessories .product-title {
 
-    text-transform: capitalize;
+text-transform: capitalize;
 
-    /* margin: 15px 0; */
-   
-    margin-bottom: 40px;
-   
-    margin-top: 10px;
+/* margin: 15px 0; */
 
-    display: inline-block;
+margin-bottom: 40px;
 
-    vertical-align: top;
+margin-top: 10px;
 
-    width: 100%;
+display: inline-block;
 
+vertical-align: top;
+
+width: 100%;
 }
 
 /*#products .product-price-and-shipping,
@@ -19750,26 +19748,25 @@ margin-bottom: 0px;
 
 .products-selection .sort-by {
 
-    padding:0;
+padding:0;
 
-    text-align: right;
+text-align: right;
 
+margin-top: 5px;
 }
 
 .products-selection .total-products {
 
-    padding:0;
-
+padding:0;
 }
 
 
 
 .products-selection .display {
 
-    float: left;
+float: left;
 
-    margin: 0 15px 0 0;
-
+margin: -3px 15px 0 0;
 }
 
 .products-selection .display li{    
@@ -21360,9 +21357,9 @@ font-weight: 500;
 
 font-size: 14px;
 
-/* text-transform: uppercase; */
-
 border:none;
+
+text-transform: initial;
 }
 
 .tabs .nav-tabs .nav-link.active,
@@ -22535,10 +22532,9 @@ li.product-flag.new{
 
 .products-selection {
 
-    margin:0;
+margin:0;
 
-	padding-bottom:10px;
-
+padding-bottom:10px;
 }
 
 
@@ -23782,14 +23778,13 @@ width: 100%;
 
 .footer-container .links h3 a{
 
-    color: #fff;
+color: #fff;
 
-    cursor: pointer;
+cursor: pointer;
 
-    margin: 0 0 20px;
+margin: 0 0 20px;
 
-    text-transform: uppercase;
-
+/* text-transform: uppercase; */
 }
 
 #left-column .right-part .product-description .discount-percentage{ font-size:14px; font-weight:normal; color:#f39d72;}
@@ -25043,13 +25038,14 @@ width: 100%;
 	
 .product-title a {
     color: #666;
-    font-size: 13.5px;
+    font-size: 14px;
     line-height: 20px;
     text-decoration: none;
     float: left;
     width: 100%;
     font-weight: 600;
-    height: 5px;}
+    height: 5px;
+    }
 
 #products .product-title, .products .product-title, .product-accessories .product-title {
    
@@ -25082,7 +25078,7 @@ width: 100%;
 
     #category .products .product_list li.product_item.col-md-4, #category .products .product_list li.item.col-md-4, #category .products .product_list li.product_item.col-md-6 {
 
-width: 47%;
+width: 46%;
 
 margin: 10px;
 
@@ -25347,7 +25343,7 @@ box-shadow:  0 0 8px rgb(0 0 0 / 29%);
 
     }
 
-    .products .product_list li.product_item.col-md-4, .products .product_list li.item.col-md-4, .products .product_list li.product_item.col-md-6{width: 93% !important;border: 1px solid transparent;border-radius: 3px;margin: 3px;/* box-shadow: 0 0px 40px -14px rgb(0 0 0 / 25%); */box-shadow: 0 0 8px rgb(0 0 0 / 29%);}
+    .products .product_list li.product_item.col-md-4, .products .product_list li.item.col-md-4, .products .product_list li.product_item.col-md-6{width: 93% !important;border: 1px solid transparent;border-radius: 3px;margin: 10px;/* box-shadow: 0 0px 40px -14px rgb(0 0 0 / 25%); */box-shadow: 0 0 8px rgb(0 0 0 / 29%);}
 
 .products .product_list li.product_item.col-md-4:hover, .products .product_list li.item.col-md-4, .products .product_list li.product_item.col-md-6 {
     box-shadow: 0 0 14px rgb(0 0 0 / 40%);
