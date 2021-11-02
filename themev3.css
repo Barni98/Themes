@@ -21030,6 +21030,11 @@ color: #fff;
 
 }
 
+.product-quantity .add .add-to-cart:hover {
+    background: #d1d1d1;
+    color: black;
+}
+
 .product-actions .add-to-cart .material-icons, .product-actions-main .add-to-cart .material-icons {
 
     line-height: inherit;
