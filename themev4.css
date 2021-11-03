@@ -24501,9 +24501,9 @@ margin: 0 0 20px;
 
     #index .products .product_list li.product_item.col-md-6{
 
-        width: 25% !important;
+width: 23% !important;
 
-    }
+}
 
 	.products .product-miniature .product-flags .new.online-only::before, .products .product-miniature .online-only.online-only::before, .products .product-miniature .on-sale.online-only::before, .products .product-miniature .discount-percentage.online-only::before{ content:"";}
 
@@ -25008,9 +25008,9 @@ margin: 0 0 20px;
 
     #index .products .product_list li.product_item.col-md-6{
 
-        width: 33.3333% !important;
+width: 31.3333% !important;
 
-    }
+}
 
 	#header .cart_block{ top:63px;}
 
