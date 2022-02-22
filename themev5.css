@@ -25343,7 +25343,7 @@ box-shadow:  0 0 8px rgb(0 0 0 / 29%);
 
     }
 
-    .products .product_list li.product_item.col-md-4, .products .product_list li.item.col-md-4, .products .product_list li.product_item.col-md-6{width: 93% !important;border: 1px solid transparent;border-radius: 3px;margin: 10px;/* box-shadow: 0 0px 40px -14px rgb(0 0 0 / 25%); */box-shadow: 0 0 8px rgb(0 0 0 / 29%);}
+    .products .product_list li.product_item.col-md-4, .products .product_list li.item.col-md-4, .products .product_list li.product_item.col-md-6{width: 44% !important;border: 1px solid transparent;border-radius: 3px;margin: 10px;/* box-shadow: 0 0px 40px -14px rgb(0 0 0 / 25%); */box-shadow: 0 0 8px rgb(0 0 0 / 29%);}
 
 .products .product_list li.product_item.col-md-4:hover, .products .product_list li.item.col-md-4, .products .product_list li.product_item.col-md-6 {
     box-shadow: 0 0 14px rgb(0 0 0 / 40%);
