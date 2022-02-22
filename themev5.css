@@ -18592,14 +18592,7 @@ height: 29px;
 
 .products .thumbnail-container,
 
-.product-accessories .thumbnail-container {
-
-position: relative;
-
-margin-bottom: 15px;
-
-height: 220px;
-}
+.product-accessories .thumbnail-container {position: relative;margin-bottom: 15px;height: 180px;}
 
 .products .thumbnail-container:hover,
 
