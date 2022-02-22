@@ -25432,7 +25432,7 @@ box-shadow:  0 0 8px rgb(0 0 0 / 29%);
 
   .block_content .col-xs-12 {padding: 0;} 
 
-  #index .products .product_list.grid li.product_item, .products .product_list.grid li.item{width: 93% !important;border: 1px solid transparent;border-radius: 3px;margin: 10px;/* box-shadow: 0 0px 40px -14px rgb(0 0 0 / 25%); */box-shadow: 0 0 8px rgb(0 0 0 / 29%);}
+  #index .products .product_list.grid li.product_item, .products .product_list.grid li.item{width: 44% !important;border: 1px solid transparent;border-radius: 3px;margin: 10px;/* box-shadow: 0 0px 40px -14px rgb(0 0 0 / 25%); */box-shadow: 0 0 8px rgb(0 0 0 / 29%);}
 
 #index .products .product_list.grid li.product_item:hover, .products .product_list.grid li.item {
     box-shadow: 0 0 14px rgb(0 0 0 / 40%);
