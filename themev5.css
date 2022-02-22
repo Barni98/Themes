@@ -18191,13 +18191,13 @@ width: 31.33%;
 
     .products .product_list li.item.col-lg-3{
 
-width: 24%;
+width: 23%;
 
 border: 1px solid transparent;
 
 border-radius: 3px;
 
-margin: 5px;
+margin: 9px;
 
 /* box-shadow: 0 0px 40px -14px rgb(0 0 0 / 25%); */
 
@@ -25261,7 +25261,7 @@ box-shadow:  0 0 8px rgb(0 0 0 / 29%);
 
 	
 
-	#index .products .product_list.grid li.product_item, .products .product_list.grid li.item{float:left;width: 48% !important;border-radius: 3px;border: 1px solid transparent;margin: 6px;/* box-shadow: 0 0px 40px -14px rgb(0 0 0 / 25%); */box-shadow: 0 0 8px rgb(0 0 0 / 29%);}
+	#index .products .product_list.grid li.product_item, .products .product_list.grid li.item{float:left;width: 45% !important;border-radius: 3px;border: 1px solid transparent;margin: 6px;/* box-shadow: 0 0px 40px -14px rgb(0 0 0 / 25%); */box-shadow: 0 0 8px rgb(0 0 0 / 29%);}
 
 #index .products .product_list.grid li.product_item:hover, .products .product_list.grid li.item {
     box-shadow: 0 0 14px rgb(0 0 0 / 40%);
