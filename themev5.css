@@ -18575,7 +18575,7 @@ box-shadow: 0 0 8px rgb(0 0 0 / 29%);
 
 .products .thumbnail-container,
 
-.product-accessories .thumbnail-container {position: relative;margin-bottom: 15px;height: 180px;}
+.product-accessories .thumbnail-container {position: relative;margin-bottom: 45px;height: 180px;}
 
 .products .thumbnail-container:hover,
 
@@ -18675,21 +18675,7 @@ box-shadow: 0 0 8px rgb(0 0 0 / 29%);
 
 .products .product-price-and-shipping,
 
-.product-price {
-
-    color: #006A9D;
-
-    font-weight: 700;
-
-    font-size: 15px;
-
-    float: left;
-
-    width: 100%;
-
-    letter-spacing: 0;
-
-}
+.product-price {color: #006A9D;font-weight: 700;font-size: 15px;float: left;width: 100%;letter-spacing: 0;}
 
 .product-description .product-actions-main {
 
