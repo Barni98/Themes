@@ -18559,24 +18559,7 @@ box-shadow: 0 0 8px rgb(0 0 0 / 29%);
 
 .product-accessories */
 
-.product-title a{
-
-color: #666;
-
-font-size: 15px;
-
-line-height: 23px;
-
-text-decoration: none;
-
-float: left;
-
-width: 100%;
-
-font-weight: 600;
-
-height: 29px;
-}
+.product-title a{color: #666;font-size: 15px;line-height: 23px;text-decoration: none;float: left;width: 100%;font-weight: 600;height: 49px;}
 
 
 
@@ -18682,22 +18665,7 @@ height: 29px;
 
 .products .product-title,
 
-.product-accessories .product-title {
-
-text-transform: capitalize;
-
-/* margin: 15px 0; */
-
-margin-bottom: 40px;
-
-margin-top: 10px;
-
-display: inline-block;
-
-vertical-align: top;
-
-width: 100%;
-}
+.product-accessories .product-title {text-transform: capitalize;/* margin: 15px 0; */margin-bottom: 25px;margin-top: 10px;display: inline-block;vertical-align: top;width: 100%;}
 
 /*#products .product-price-and-shipping,
 
@@ -18816,14 +18784,7 @@ margin-top: 10px;
 
 .product-accessories img */
 
-.products img{
-
-max-width: 100%;
-
-max-height: 210px;
-
-position: relative;
-}
+.products img{max-width: 100%;max-height: 200px;position: relative;}
 
 .products img.img_1 {
 
@@ -19521,17 +19482,7 @@ right: 5px;
 
     .products .thumbnail-container,
 
-    .product-accessories .thumbnail-container {
-
-display: inline-block;
-
-vertical-align: top;
-
-margin-bottom: 0px;
-
-/* height: 200px; */
-
-} 
+    .product-accessories .thumbnail-container {display: inline-block;vertical-align: top;margin-bottom: 1px;/* height: 200px; */} 
 
     #products .thumbnail-container .product-description,
 
@@ -25031,9 +24982,14 @@ width: 31.3333% !important;
 
 @media (max-width: 767px) {
 .products img {
-    max-width: 100%;
-    max-height: 180px;
-    position: relative;
+     /* For WebKit*/
+        /* Mozilla*/
+          /* Opera*/
+             /* Generic*/
+     max-width: 100%;
+     max-height: 390px;
+     position: relative;
+     object-fit: contain;
     }
 	
 .product-title a {
@@ -25044,24 +25000,17 @@ width: 31.3333% !important;
     float: left;
     width: 100%;
     font-weight: 600;
-    height: 5px;
+    height: 65px;
     }
 
 #products .product-title, .products .product-title, .product-accessories .product-title {
-   
-    text-transform: capitalize;
-    
-    /* margin: 15px 0; */
-  
-   margin-bottom: 75px;
-   
-    margin-top: 15px;
-    
-    display: inline-block;
-    
-    vertical-align: top;
-   
-    width: 100%;
+   text-transform: capitalize;
+   /* margin: 15px 0; */
+   /* margin-bottom: 75px; */
+   margin-top: 15px;
+   display: inline-block;
+   vertical-align: top;
+   width: 100%;
 }
 
     #products .products .list li.product_item .thumbnail-container.col-md-3 {
