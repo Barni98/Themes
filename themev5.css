@@ -18557,7 +18557,7 @@ box-shadow: 0 0 8px rgb(0 0 0 / 29%);
 
 /*.products .product-title a,
 
-.product-accessories .product-title a */
+.product-accessories */
 
 .product-title a{
 
@@ -25044,7 +25044,7 @@ width: 31.3333% !important;
     float: left;
     width: 100%;
     font-weight: 600;
-    height: 5px;
+    height: 20px;
     }
 
 #products .product-title, .products .product-title, .product-accessories .product-title {
