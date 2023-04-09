@@ -25,6 +25,24 @@ http://etc12.xyz:80/5997142264/6761257953/160593
 http://etc12.xyz:80/5997142264/6761257953/17382
 #EXTINF: -1 group-title="Ungrouped", HU| COOL HD
 http://etc12.xyz:80/5997142264/6761257953/160494
+#EXTINF: -1 group-title="Ungrouped", HU| ARENA 4 HD
+http://etc12.xyz:80/5997142264/6761257953/400220666
+#EXTINF: -1 tvg-id="Match4.hu" group-title="Ungrouped", HU| Match 4 HD
+http://iptvtree.net:8080/Jonsno/NKr806GHd4YZN3Cn/2241
+#EXTINF: -1 tvg-id="Spiler1TV.hu" group-title="Ungrouped", SPILER 1 TV
+http://etc12.xyz:80/5997142264/6761257953/160600
+#EXTINF: -1 tvg-id="Spiler1TV.hu" group-title="Ungrouped", SPILER 1 TV HD
+http://iptvtree.net:8080/Jonsno/NKr806GHd4YZN3Cn/56768
+#EXTINF: -1 tvg-id="Spiler2TV.hu" group-title="Ungrouped", SPILER 2 TV
+http://etc12.xyz:80/5997142264/6761257953/160601
+#EXTINF: -1 tvg-id="Spiler2TV.hu" group-title="Ungrouped", SPILER 2 TV HD
+http://iptvtree.net:8080/Jonsno/NKr806GHd4YZN3Cn/77769
+#EXTINF: -1 group-title="Ungrouped", HU| SPORT 1 HD
+http://etc12.xyz:80/5997142264/6761257953/160603
+#EXTINF: -1 group-title="Ungrouped", HU| SPORT 2
+http://etc12.xyz:80/5997142264/6761257953/160604
+#EXTINF: -1 group-title="Ungrouped", HU| SPORT 2 HD
+http://etc12.xyz:80/5997142264/6761257953/160503
 #EXTINF: -1 group-title="Ungrouped", HU| DTX HD
 http://etc12.xyz:80/5997142264/6761257953/160510
 #EXTINF: -1 group-title="Ungrouped", HU| FEM 3 HD
@@ -177,22 +195,7 @@ http://etc12.xyz:80/5997142264/6761257953/160516
 http://etc12.xyz:80/5997142264/6761257953/160517
 #EXTINF: -1 group-title="Ungrouped", HU| EXTREME SPORTS  SD
 http://etc12.xyz:80/5997142264/6761257953/160519
-#EXTINF: -1 group-title="Ungrouped", HU| M4 SPORT HD
-http://etc12.xyz:80/5997142264/6761257953/160563
-#EXTINF: -1 tvg-id="Spiler1TV.hu" group-title="Ungrouped", SPILER 1 TV
-http://etc12.xyz:80/5997142264/6761257953/160600
-#EXTINF: -1 tvg-id="Spiler1TV.hu" group-title="Ungrouped", SPILER 1 TV HD
-http://iptvtree.net:8080/Jonsno/NKr806GHd4YZN3Cn/56768
-#EXTINF: -1 tvg-id="Spiler2TV.hu" group-title="Ungrouped", SPILER 2 TV
-http://etc12.xyz:80/5997142264/6761257953/160601
-#EXTINF: -1 tvg-id="Spiler2TV.hu" group-title="Ungrouped", SPILER 2 TV HD
-http://iptvtree.net:8080/Jonsno/NKr806GHd4YZN3Cn/77769
-#EXTINF: -1 group-title="Ungrouped", HU| SPORT 1 HD
-http://etc12.xyz:80/5997142264/6761257953/160603
-#EXTINF: -1 group-title="Ungrouped", HU| SPORT 2
-http://etc12.xyz:80/5997142264/6761257953/160604
-#EXTINF: -1 group-title="Ungrouped", HU| SPORT 2 HD
-http://etc12.xyz:80/5997142264/6761257953/160503
+
 #EXTINF: -1 group-title="Ungrouped", HU| THE FISHING & HUNTING HD
 http://etc12.xyz:80/5997142264/6761257953/160611
 #EXTINF: -1 group-title="Ungrouped", HU| TISZA TV HD
@@ -249,3 +252,7 @@ http://etc12.xyz:80/5997142264/6761257953/400200993
 http://etc12.xyz:80/5997142264/6761257953/400251951
 #EXTINF: -1 group-title="Ungrouped", HU| MUZSIKA TV SD
 http://etc12.xyz:80/5997142264/6761257953/160576
+#EXTINF: -1 group-title="Ungrouped", PRO TV HD
+http://iptvtree.net:8080/Vladisergeevic/2f71144da3/4229
+#EXTINF: -1 group-title="Ungrouped", DIGI SPORT 1 HD
+http://iptvtree.net:8080/Vladisergeevic/2f71144da3/71457
