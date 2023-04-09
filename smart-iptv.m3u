@@ -15,7 +15,7 @@ http://etc12.xyz:80/5997142264/6761257953/160514
 http://etc12.xyz:80/5997142264/6761257953/160621
 #EXTINF: -1 group-title="Ungrouped", SUPER TV2 HD
 http://etc12.xyz:80/5997142264/6761257953/17399
-#EXTINF: -1 tvg-id="RTLHungary.hu" group-title="Ungrouped", RTL HD
+#EXTINF: -1 tvg-id="RTLHungary.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/RTL_2022.svg/375px-RTL_2022.svg.png" group-title="Ungrouped", RTL HD
 http://etc12.xyz:80/5997142264/6761257953/17383
 #EXTINF: -1 tvg-id="RTL2.hu" group-title="Ungrouped", RTL Kettő
 http://etc12.xyz:80/5997142264/6761257953/160587
@@ -179,14 +179,20 @@ http://etc12.xyz:80/5997142264/6761257953/160517
 http://etc12.xyz:80/5997142264/6761257953/160519
 #EXTINF: -1 group-title="Ungrouped", HU| M4 SPORT HD
 http://etc12.xyz:80/5997142264/6761257953/160563
-#EXTINF: -1 group-title="Ungrouped", HU| SPILER 1 TV HD
+#EXTINF: -1 tvg-id="Spiler1TV.hu" group-title="Ungrouped", SPILER 1 TV
 http://etc12.xyz:80/5997142264/6761257953/160600
-#EXTINF: -1 group-title="Ungrouped", HU| SPILER 2 TV HD
+#EXTINF: -1 tvg-id="Spiler1TV.hu" group-title="Ungrouped", SPILER 1 TV HD
+http://iptvtree.net:8080/Jonsno/NKr806GHd4YZN3Cn/56768
+#EXTINF: -1 tvg-id="Spiler2TV.hu" group-title="Ungrouped", SPILER 2 TV
 http://etc12.xyz:80/5997142264/6761257953/160601
+#EXTINF: -1 tvg-id="Spiler2TV.hu" group-title="Ungrouped", SPILER 2 TV HD
+http://iptvtree.net:8080/Jonsno/NKr806GHd4YZN3Cn/77769
 #EXTINF: -1 group-title="Ungrouped", HU| SPORT 1 HD
 http://etc12.xyz:80/5997142264/6761257953/160603
-#EXTINF: -1 group-title="Ungrouped", HU| SPORT 2 HD
+#EXTINF: -1 group-title="Ungrouped", HU| SPORT 2
 http://etc12.xyz:80/5997142264/6761257953/160604
+#EXTINF: -1 group-title="Ungrouped", HU| SPORT 2 HD
+http://etc12.xyz:80/5997142264/6761257953/160503
 #EXTINF: -1 group-title="Ungrouped", HU| THE FISHING & HUNTING HD
 http://etc12.xyz:80/5997142264/6761257953/160611
 #EXTINF: -1 group-title="Ungrouped", HU| TISZA TV HD
@@ -199,8 +205,6 @@ http://etc12.xyz:80/5997142264/6761257953/349140
 http://etc12.xyz:80/5997142264/6761257953/160487
 #EXTINF: -1 group-title="Ungrouped", HU| DIGI ANIMAL WORLD HD
 http://etc12.xyz:80/5997142264/6761257953/160497
-#EXTINF: -1 group-title="Ungrouped", HU| DIGI WORLD HD
-http://etc12.xyz:80/5997142264/6761257953/160503
 #EXTINF: -1 group-title="Ungrouped", HU| DIGI LIFE HD
 http://etc12.xyz:80/5997142264/6761257953/17381
 #EXTINF: -1 group-title="Ungrouped", HU| DISCOVERY CHANNEL HD
