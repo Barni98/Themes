@@ -11,9 +11,9 @@ http://etc12.xyz:80/5997142264/6761257953/17410
 http://etc12.xyz:80/5997142264/6761257953/160512
 #EXTINF: -1 group-title="Ungrouped", DUNA WORLD HD
 http://etc12.xyz:80/5997142264/6761257953/160514
-#EXTINF: -1 group-title="Ungrouped", TV2 HD
+#EXTINF: -1 tvg-id="TV2.hu" group-title="Ungrouped", TV2 HD
 http://etc12.xyz:80/5997142264/6761257953/160621
-#EXTINF: -1 group-title="Ungrouped", SUPER TV2 HD
+#EXTINF: -1 tvg-id="SuperTV2.hu" group-title="Ungrouped", SUPER TV2 HD
 http://etc12.xyz:80/5997142264/6761257953/17399
 #EXTINF: -1 tvg-id="RTLHungary.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/RTL_2022.svg/375px-RTL_2022.svg.png" group-title="Ungrouped", RTL HD
 http://etc12.xyz:80/5997142264/6761257953/17383
