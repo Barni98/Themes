@@ -1,0 +1,245 @@
+#EXTM3U x-tvg-url="https://epg.anything.hu/all/guide.xml"
+#EXTINF: -1 tvg-id="rtl+.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Rtl_harom_logo_2022.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/3/3d/Rtl_harom_logo_2022.png" group-title="Ungrouped", HU| RTL Három
+http://etc12.xyz:80/5997142264/6761257953/160593
+#EXTINF: -1 tvg-id="rtlii.hu" group-title="Ungrouped", HU| RTL Kettő
+http://etc12.xyz:80/5997142264/6761257953/160587
+#EXTINF: -1 tvg-id="rtlgold.hu" group-title="Ungrouped", HU| RTL GOLD HD
+http://etc12.xyz:80/5997142264/6761257953/17382
+#EXTINF: -1 tvg-id="rtlklub.hu" group-title="Ungrouped", HU| RTL
+http://etc12.xyz:80/5997142264/6761257953/17383
+#EXTINF: -1 group-title="Ungrouped", HU| COOL HD
+http://etc12.xyz:80/5997142264/6761257953/160494
+#EXTINF: -1 group-title="Ungrouped", HU| DTX HD
+http://etc12.xyz:80/5997142264/6761257953/160510
+#EXTINF: -1 group-title="Ungrouped", HU| DUNA HD
+http://etc12.xyz:80/5997142264/6761257953/160512
+#EXTINF: -1 group-title="Ungrouped", HU| FEM 3 HD
+http://etc12.xyz:80/5997142264/6761257953/160522
+#EXTINF: -1 group-title="Ungrouped", HU| IZAURA TV HD
+http://etc12.xyz:80/5997142264/6761257953/160549
+#EXTINF: -1 group-title="Ungrouped", HU| PRIME HD
+http://etc12.xyz:80/5997142264/6761257953/160585
+#EXTINF: -1 group-title="Ungrouped", HU| ATV HD
+http://etc12.xyz:80/5997142264/6761257953/17427
+#EXTINF: -1 group-title="Ungrouped", HU| SUPER TV2 HD
+http://etc12.xyz:80/5997142264/6761257953/17399
+#EXTINF: -1 group-title="Ungrouped", HU| M1 HD
+http://etc12.xyz:80/5997142264/6761257953/160558
+#EXTINF: -1 group-title="Ungrouped", HU| TV2 HD
+http://etc12.xyz:80/5997142264/6761257953/160621
+#EXTINF: -1 group-title="Ungrouped", HU| TV7 BEKESCSABA HD
+http://etc12.xyz:80/5997142264/6761257953/400200982
+#EXTINF: -1 group-title="Ungrouped", HU| VIASAT 3 HD
+http://etc12.xyz:80/5997142264/6761257953/160625
+#EXTINF: -1 group-title="Ungrouped", HU| VIASAT 6 HD
+http://etc12.xyz:80/5997142264/6761257953/160626
+#EXTINF: -1 group-title="Ungrouped", HU| DUNA WORLD HD
+http://etc12.xyz:80/5997142264/6761257953/160514
+#EXTINF: -1 group-title="Ungrouped", HU| FIX TV FHD
+http://etc12.xyz:80/5997142264/6761257953/160536
+#EXTINF: -1 group-title="Ungrouped", HU| PAX TV SD
+http://etc12.xyz:80/5997142264/6761257953/160584
+#EXTINF: -1 group-title="Ungrouped", HU| BONUM TV HD
+http://etc12.xyz:80/5997142264/6761257953/17425
+#EXTINF: -1 group-title="Ungrouped", HU| APOSTOL TV HD
+http://etc12.xyz:80/5997142264/6761257953/160475
+#EXTINF: -1 group-title="Ungrouped", HU| HIR TV HD
+http://etc12.xyz:80/5997142264/6761257953/160545
+#EXTINF: -1 group-title="Ungrouped", HU| BLOOMBERG HD
+http://etc12.xyz:80/5997142264/6761257953/400149859
+#EXTINF: -1 group-title="Ungrouped", HU| BALATON TV HD
+http://etc12.xyz:80/5997142264/6761257953/400200992
+#EXTINF: -1 group-title="Ungrouped", HU| DTV HD
+http://etc12.xyz:80/5997142264/6761257953/400200990
+#EXTINF: -1 group-title="Ungrouped", HU| HATOSCSATORNA SD
+http://etc12.xyz:80/5997142264/6761257953/400200989
+#EXTINF: -1 group-title="Ungrouped", HU| HEGYVIDEK TV BUDAPEST HD
+http://etc12.xyz:80/5997142264/6761257953/400200988
+#EXTINF: -1 group-title="Ungrouped", HU| KECSKEMETI TV HD
+http://etc12.xyz:80/5997142264/6761257953/400200987
+#EXTINF: -1 group-title="Ungrouped", HU| PANNON RTV HD
+http://etc12.xyz:80/5997142264/6761257953/400200984
+#EXTINF: -1 group-title="Ungrouped", HU| VTV FÜZESABONY HD
+http://etc12.xyz:80/5997142264/6761257953/400200981
+#EXTINF: -1 group-title="Ungrouped", HU| AMC HD
+http://etc12.xyz:80/5997142264/6761257953/17428
+#EXTINF: -1 group-title="Ungrouped", HU| AXN BLACK HD
+http://etc12.xyz:80/5997142264/6761257953/160479
+#EXTINF: -1 group-title="Ungrouped", HU| AXN SD
+http://etc12.xyz:80/5997142264/6761257953/17426
+#EXTINF: -1 group-title="Ungrouped", HU| AXN WHITE HD
+http://etc12.xyz:80/5997142264/6761257953/160481
+#EXTINF: -1 group-title="Ungrouped", HU| COMEDY CENTRAL FAMILY HD
+http://etc12.xyz:80/5997142264/6761257953/160493
+#EXTINF: -1 group-title="Ungrouped", HU| HBO HD
+http://etc12.xyz:80/5997142264/6761257953/160543
+#EXTINF: -1 group-title="Ungrouped", HU| HBO 2 HD
+http://etc12.xyz:80/5997142264/6761257953/160541
+#EXTINF: -1 group-title="Ungrouped", HU| HBO 3 HD
+http://etc12.xyz:80/5997142264/6761257953/17415
+#EXTINF: -1 group-title="Ungrouped", HU| TV2 COMEDIE HD
+http://etc12.xyz:80/5997142264/6761257953/160547
+#EXTINF: -1 group-title="Ungrouped", HU| TV4 HD
+http://etc12.xyz:80/5997142264/6761257953/160622
+#EXTINF: -1 group-title="Ungrouped", HU| ARENA 4 HD
+http://etc12.xyz:80/5997142264/6761257953/400220666
+#EXTINF: -1 group-title="Ungrouped", HU| TV 1000 HD
+http://etc12.xyz:80/5997142264/6761257953/400220663
+#EXTINF: -1 group-title="Ungrouped", HU| CINEMAX HD
+http://etc12.xyz:80/5997142264/6761257953/160489
+#EXTINF: -1 group-title="Ungrouped", HU| CINEMAX 2 HD
+http://etc12.xyz:80/5997142264/6761257953/160490
+#EXTINF: -1 group-title="Ungrouped", HU| COMEDY CENTRAL HD
+http://etc12.xyz:80/5997142264/6761257953/160491
+#EXTINF: -1 group-title="Ungrouped", HU| EPIC DRAMA HD
+http://etc12.xyz:80/5997142264/6761257953/349139
+#EXTINF: -1 group-title="Ungrouped", HU| FILM 4 HD
+http://etc12.xyz:80/5997142264/6761257953/160523
+#EXTINF: -1 group-title="Ungrouped", HU| FILM CAFE HD
+http://etc12.xyz:80/5997142264/6761257953/160524
+#EXTINF: -1 group-title="Ungrouped", HU| FILM MANIA HD
+http://etc12.xyz:80/5997142264/6761257953/160526
+#EXTINF: -1 group-title="Ungrouped", HU| FILM NOW HD
+http://etc12.xyz:80/5997142264/6761257953/17422
+#EXTINF: -1 group-title="Ungrouped", HU| FILM PLUS HD
+http://etc12.xyz:80/5997142264/6761257953/160532
+#EXTINF: -1 group-title="Ungrouped", HU| FILMBOX EXTRA HD
+http://etc12.xyz:80/5997142264/6761257953/160530
+#EXTINF: -1 group-title="Ungrouped", HU| FILMBOX FAMILY HD
+http://etc12.xyz:80/5997142264/6761257953/400149856
+#EXTINF: -1 group-title="Ungrouped", HU| FILMBOX PREMIUM HD
+http://etc12.xyz:80/5997142264/6761257953/160533
+#EXTINF: -1 group-title="Ungrouped", HU| FILMBOX ARTHOUSE HD
+http://etc12.xyz:80/5997142264/6761257953/400220660
+#EXTINF: -1 group-title="Ungrouped", HU| GALAXY 4 HD
+http://etc12.xyz:80/5997142264/6761257953/160539
+#EXTINF: -1 group-title="Ungrouped", HU| JOCKY TV HD
+http://etc12.xyz:80/5997142264/6761257953/160551
+#EXTINF: -1 group-title="Ungrouped", HU| MOZI PLUS HD
+http://etc12.xyz:80/5997142264/6761257953/160571
+#EXTINF: -1 group-title="Ungrouped", HU| MOZIVERZUM HD
+http://etc12.xyz:80/5997142264/6761257953/160572
+#EXTINF: -1 group-title="Ungrouped", HU| PARAMOUNT CHANNEL HD
+http://etc12.xyz:80/5997142264/6761257953/160583
+#EXTINF: -1 group-title="Ungrouped", HU| SONY MAX HD
+http://etc12.xyz:80/5997142264/6761257953/160595
+#EXTINF: -1 group-title="Ungrouped", HU| SONY MOVIE CHANNEL HD
+http://etc12.xyz:80/5997142264/6761257953/160596
+#EXTINF: -1 group-title="Ungrouped", HU| SOROZAT+ HD
+http://etc12.xyz:80/5997142264/6761257953/160598
+#EXTINF: -1 group-title="Ungrouped", HU| STORY 4 HD
+http://etc12.xyz:80/5997142264/6761257953/160607
+#EXTINF: -1 group-title="Ungrouped", HU| EWTN HD
+http://etc12.xyz:80/5997142264/6761257953/400220661
+#EXTINF: -1 group-title="Ungrouped", ✦●✦ KIDS✦●✦
+http://etc12.xyz:80/5997142264/6761257953/347729
+#EXTINF: -1 group-title="Ungrouped", HU| BOOMERANG HD
+http://etc12.xyz:80/5997142264/6761257953/160484
+#EXTINF: -1 group-title="Ungrouped", HU| CARTOON NETWORK HD
+http://etc12.xyz:80/5997142264/6761257953/160486
+#EXTINF: -1 group-title="Ungrouped", HU| DA VINCI LEARNING HD
+http://etc12.xyz:80/5997142264/6761257953/160495
+#EXTINF: -1 group-title="Ungrouped", HU| DISNEY CHANNEL SD
+http://etc12.xyz:80/5997142264/6761257953/160508
+#EXTINF: -1 group-title="Ungrouped", HU| DISNEY JUNIOR HD
+http://etc12.xyz:80/5997142264/6761257953/400149857
+#EXTINF: -1 group-title="Ungrouped", HU| DUCK TV SD
+http://etc12.xyz:80/5997142264/6761257953/160511
+#EXTINF: -1 group-title="Ungrouped", HU| JIMJAM HD
+http://etc12.xyz:80/5997142264/6761257953/160550
+#EXTINF: -1 group-title="Ungrouped", HU| M2 TV HD
+http://etc12.xyz:80/5997142264/6761257953/160559
+#EXTINF: -1 group-title="Ungrouped", HU| MINIMAX HD
+http://etc12.xyz:80/5997142264/6761257953/17393
+#EXTINF: -1 group-title="Ungrouped", HU| NICK JUNIOR HD
+http://etc12.xyz:80/5997142264/6761257953/160579
+#EXTINF: -1 group-title="Ungrouped", HU| NICKELODEON HD
+http://etc12.xyz:80/5997142264/6761257953/17392
+#EXTINF: -1 group-title="Ungrouped", HU| TV2 KIDS HD
+http://etc12.xyz:80/5997142264/6761257953/160555
+#EXTINF: -1 group-title="Ungrouped", ✦●✦ SPORTS✦●✦
+http://etc12.xyz:80/5997142264/6761257953/347730
+#EXTINF: -1 group-title="Ungrouped", HU| AUTO MOTOR SPORT SD
+http://etc12.xyz:80/5997142264/6761257953/160477
+#EXTINF: -1 group-title="Ungrouped", HU| DIGI SPORT 1 HD
+http://etc12.xyz:80/5997142264/6761257953/160500
+#EXTINF: -1 group-title="Ungrouped", HU| DIGI SPORT 2 HD
+http://etc12.xyz:80/5997142264/6761257953/160501
+#EXTINF: -1 group-title="Ungrouped", HU| DIGI SPORT 3 HD
+http://etc12.xyz:80/5997142264/6761257953/160502
+#EXTINF: -1 group-title="Ungrouped", HU| EUROSPORT 1 HD
+http://etc12.xyz:80/5997142264/6761257953/160516
+#EXTINF: -1 group-title="Ungrouped", HU| EUROSPORT 2 HD
+http://etc12.xyz:80/5997142264/6761257953/160517
+#EXTINF: -1 group-title="Ungrouped", HU| EXTREME SPORTS  SD
+http://etc12.xyz:80/5997142264/6761257953/160519
+#EXTINF: -1 group-title="Ungrouped", HU| M4 SPORT HD
+http://etc12.xyz:80/5997142264/6761257953/160563
+#EXTINF: -1 group-title="Ungrouped", HU| SPILER 1 TV HD
+http://etc12.xyz:80/5997142264/6761257953/160600
+#EXTINF: -1 group-title="Ungrouped", HU| SPILER 2 TV HD
+http://etc12.xyz:80/5997142264/6761257953/160601
+#EXTINF: -1 group-title="Ungrouped", HU| SPORT 1 HD
+http://etc12.xyz:80/5997142264/6761257953/160603
+#EXTINF: -1 group-title="Ungrouped", HU| SPORT 2 HD
+http://etc12.xyz:80/5997142264/6761257953/160604
+#EXTINF: -1 group-title="Ungrouped", HU| THE FISHING & HUNTING HD
+http://etc12.xyz:80/5997142264/6761257953/160611
+#EXTINF: -1 group-title="Ungrouped", HU| TISZA TV HD
+http://etc12.xyz:80/5997142264/6761257953/160612
+#EXTINF: -1 group-title="Ungrouped", HU| ANIMAL PLANET HD
+http://etc12.xyz:80/5997142264/6761257953/160474
+#EXTINF: -1 group-title="Ungrouped", HU| BBC EARTH HD
+http://etc12.xyz:80/5997142264/6761257953/349140
+#EXTINF: -1 group-title="Ungrouped", HU| CBS REALITY HD
+http://etc12.xyz:80/5997142264/6761257953/160487
+#EXTINF: -1 group-title="Ungrouped", HU| DIGI ANIMAL WORLD HD
+http://etc12.xyz:80/5997142264/6761257953/160497
+#EXTINF: -1 group-title="Ungrouped", HU| DIGI WORLD HD
+http://etc12.xyz:80/5997142264/6761257953/160503
+#EXTINF: -1 group-title="Ungrouped", HU| DIGI LIFE HD
+http://etc12.xyz:80/5997142264/6761257953/17381
+#EXTINF: -1 group-title="Ungrouped", HU| DISCOVERY CHANNEL HD
+http://etc12.xyz:80/5997142264/6761257953/160504
+#EXTINF: -1 group-title="Ungrouped", HU| DISCOVERY SCIENCE HD
+http://etc12.xyz:80/5997142264/6761257953/160505
+#EXTINF: -1 group-title="Ungrouped", HU| FOOD NETWORK HD
+http://etc12.xyz:80/5997142264/6761257953/160537
+#EXTINF: -1 group-title="Ungrouped", HU| HISTORY HD
+http://etc12.xyz:80/5997142264/6761257953/160546
+#EXTINF: -1 group-title="Ungrouped", HU| INVESTIGATION DISCOVERY HD
+http://etc12.xyz:80/5997142264/6761257953/160548
+#EXTINF: -1 group-title="Ungrouped", HU| LIFE TV HD
+http://etc12.xyz:80/5997142264/6761257953/349138
+#EXTINF: -1 group-title="Ungrouped", HU| M5 HD
+http://etc12.xyz:80/5997142264/6761257953/17410
+#EXTINF: -1 group-title="Ungrouped", HU| NAT GEO HD
+http://etc12.xyz:80/5997142264/6761257953/160577
+#EXTINF: -1 group-title="Ungrouped", HU| NAT GEO WILD HD
+http://etc12.xyz:80/5997142264/6761257953/160578
+#EXTINF: -1 group-title="Ungrouped", HU| OZONE NETWORK HD
+http://etc12.xyz:80/5997142264/6761257953/160582
+#EXTINF: -1 group-title="Ungrouped", HU| SPEKTRUM HD
+http://etc12.xyz:80/5997142264/6761257953/17402
+#EXTINF: -1 group-title="Ungrouped", HU| SPEKTRUM HOME HD
+http://etc12.xyz:80/5997142264/6761257953/17401
+#EXTINF: -1 group-title="Ungrouped", HU| LOVE NATURE HD
+http://etc12.xyz:80/5997142264/6761257953/19043
+#EXTINF: -1 group-title="Ungrouped", HU| TLC HD
+http://etc12.xyz:80/5997142264/6761257953/17398
+#EXTINF: -1 group-title="Ungrouped", HU| TRAVEL CHANNEL HD
+http://etc12.xyz:80/5997142264/6761257953/160614
+#EXTINF: -1 group-title="Ungrouped", HU| TV PAPRIKA HD
+http://etc12.xyz:80/5997142264/6761257953/160620
+#EXTINF: -1 group-title="Ungrouped", HU| VIASAT EXPLORE HD
+http://etc12.xyz:80/5997142264/6761257953/160627
+#EXTINF: -1 group-title="Ungrouped", HU| VIASAT HISTORY HD
+http://etc12.xyz:80/5997142264/6761257953/160628
+#EXTINF: -1 group-title="Ungrouped", HU| VIASAT NATURE HD
+http://etc12.xyz:80/5997142264/6761257953/349142
+#EXTINF: -1 group-title="Ungrouped", HU| 1MUS HD
+http://etc12.xyz:80/5997142264/6761257953/400200993
+#EXTINF: -1 group-title="Ungrouped", HU| ERDELY TV HD
+http://etc12.xyz:80/5997142264/6761257953/400251951
+#EXTINF: -1 group-title="Ungrouped", HU| MUZSIKA TV SD
+http://etc12.xyz:80/5997142264/6761257953/160576
