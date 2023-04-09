@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/bg/tv.dir.bg.xml,https://iptv-org.github.io/epg/guides/bg/tvprofil.com.xml,https://iptv-org.github.io/epg/guides/cs/m.tv.sms.cz.xml,https://iptv-org.github.io/epg/guides/en/musor.tv.xml,https://iptv-org.github.io/epg/guides/hr/tvprofil.com.xml,https://iptv-org.github.io/epg/guides/hu/mediaklikk.hu.xml,https://iptv-org.github.io/epg/guides/hu/musor.tv.xml,https://iptv-org.github.io/epg/guides/hu/tv.yettel.hu.xml,https://iptv-org.github.io/epg/guides/sk/horizon.tv.xml,https://iptv-org.github.io/epg/guides/sl/tv2go.t-2.net.xml"
+#EXTM3U x-tvg-url="https://epg.anything.hu/all/guide.xml,https://iptv-org.github.io/epg/guides/bg/tv.dir.bg.xml,https://iptv-org.github.io/epg/guides/bg/tvprofil.com.xml,https://iptv-org.github.io/epg/guides/cs/m.tv.sms.cz.xml,https://iptv-org.github.io/epg/guides/en/musor.tv.xml,https://iptv-org.github.io/epg/guides/hr/tvprofil.com.xml,https://iptv-org.github.io/epg/guides/hu/mediaklikk.hu.xml,https://iptv-org.github.io/epg/guides/hu/musor.tv.xml,https://iptv-org.github.io/epg/guides/hu/tv.yettel.hu.xml,https://iptv-org.github.io/epg/guides/sk/horizon.tv.xml,https://iptv-org.github.io/epg/guides/sl/tv2go.t-2.net.xml"
 #EXTINF: -1 group-title="Ungrouped", M1 HD
 http://etc12.xyz:80/5997142264/6761257953/160558
 #EXTINF: -1 group-title="Ungrouped", M2 TV HD
@@ -15,7 +15,7 @@ http://etc12.xyz:80/5997142264/6761257953/160514
 http://etc12.xyz:80/5997142264/6761257953/160621
 #EXTINF: -1 tvg-id="SuperTV2.hu" group-title="Ungrouped", SUPER TV2 HD
 http://etc12.xyz:80/5997142264/6761257953/17399
-#EXTINF: -1 tvg-id="RTLHungary.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/RTL_2022.svg/375px-RTL_2022.svg.png" group-title="Ungrouped", RTL HD
+#EXTINF: -1 tvg-id="RTLKlub.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/RTL_2022.svg/375px-RTL_2022.svg.png" group-title="Ungrouped", RTL HD
 http://etc12.xyz:80/5997142264/6761257953/17383
 #EXTINF: -1 tvg-id="RTL2.hu" group-title="Ungrouped", RTL Kettő
 http://etc12.xyz:80/5997142264/6761257953/160587
