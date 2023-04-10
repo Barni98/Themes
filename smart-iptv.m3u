@@ -23,9 +23,9 @@ http://etc12.xyz:80/5997142264/6761257953/160587
 http://etc12.xyz:80/5997142264/6761257953/160593
 #EXTINF: -1 tvg-id="RTLGold.hu" group-title="Ungrouped", RTL GOLD HD
 http://etc12.xyz:80/5997142264/6761257953/17382
-#EXTINF: -1 group-title="Ungrouped", HU| COOL HD
+#EXTINF: -1 tvg-id="RTLplus.hu" group-title="Ungrouped", HU| COOL HD
 http://etc12.xyz:80/5997142264/6761257953/160494
-#EXTINF: -1 group-title="Ungrouped", HU| ARENA 4 HD
+#EXTINF: -1 tvg-id="Arena4.hu" group-title="Ungrouped", HU| ARENA 4 HD
 http://etc12.xyz:80/5997142264/6761257953/400220666
 #EXTINF: -1 tvg-id="Match4.hu" group-title="Ungrouped", HU| Match 4 HD
 http://iptvtree.net:8080/Jonsno/NKr806GHd4YZN3Cn/2241
