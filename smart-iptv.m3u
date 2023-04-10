@@ -31,11 +31,11 @@ http://etc12.xyz:80/5997142264/6761257953/400220666
 http://iptvtree.net:8080/Jonsno/NKr806GHd4YZN3Cn/2241
 #EXTINF: -1 group-title="Ungrouped", HU| SPILER 1 TV
 http://etc12.xyz:80/5997142264/6761257953/160600
-#EXTINF: -1 group-title="Ungrouped", HU| SPILER 1 TV HD
+#EXTINF: -1 tvg-id="Spiler1TV.hu" group-title="Ungrouped", Spiler1 TV
 http://iptvtree.net:8080/Jonsno/NKr806GHd4YZN3Cn/56768
 #EXTINF: -1 group-title="Ungrouped", HU| SPILER 2 TV
 http://etc12.xyz:80/5997142264/6761257953/160601
-#EXTINF: -1 group-title="Ungrouped", HU| SPILER 2 TV HD
+#EXTINF: -1 tvg-id="Spiler2TV.hu" group-title="Ungrouped", Spiler2 TV
 http://iptvtree.net:8080/Jonsno/NKr806GHd4YZN3Cn/77769
 #EXTINF: -1 group-title="Ungrouped", HU| SPORT 1 HD
 http://etc12.xyz:80/5997142264/6761257953/160603
